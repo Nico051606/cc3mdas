@@ -1,5 +1,5 @@
 
-package main;
+package cc3.calcu;
 import java.util.*;
 public class Cc3Calcu {
 
